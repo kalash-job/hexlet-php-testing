@@ -1,0 +1,15 @@
+{
+    "name": "nikolay/hexlet-php-testing",
+    "description": "learning php testing",
+    "type": "project",
+    "require-dev": {
+        "webmozart/assert": "^1.10"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nikolay Kalashnikov",
+            "email": "kalash-job@yandex.ru"
+        }
+    ]
+}
